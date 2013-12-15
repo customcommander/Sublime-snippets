@@ -15,4 +15,8 @@
         <td>aneq</td>
         <td>Y.Assert.areNotEqual</td>
     </tr>
+    <tr>
+        <td>asa</td>
+        <td>Y.Assert.areSame</td>
+    </tr>
 </table>
