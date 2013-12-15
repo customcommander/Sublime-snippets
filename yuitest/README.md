@@ -19,4 +19,8 @@
         <td>asa</td>
         <td>Y.Assert.areSame</td>
     </tr>
+    <tr>
+        <td>ansa</td>
+        <td>Y.Assert.areNotSame</td>
+    </tr>
 </table>

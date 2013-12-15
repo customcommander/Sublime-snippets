@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.areNotSame($1, $2);]]></content>
+    <tabTrigger>ansa</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.areNotSame</description>
+</snippet>
