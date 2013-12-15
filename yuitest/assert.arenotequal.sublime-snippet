@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.areNotEqual($1, $2);]]></content>
+    <tabTrigger>aneq</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.areNotEqual(expected, actual)</description>
+</snippet>

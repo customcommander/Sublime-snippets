@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.areEqual($1, $2);]]></content>
+    <tabTrigger>aeq</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.areEqual(expected, actual)</description>
+</snippet>
