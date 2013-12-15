@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.isFalse($1);]]></content>
+    <tabTrigger>afa</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.isFalse</description>
+</snippet>

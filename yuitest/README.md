@@ -23,4 +23,8 @@
         <td>ansa</td>
         <td>Y.Assert.areNotSame</td>
     </tr>
+    <tr>
+        <td>afa</td>
+        <td>Y.Assert.isFalse</td>
+    </tr>
 </table>
