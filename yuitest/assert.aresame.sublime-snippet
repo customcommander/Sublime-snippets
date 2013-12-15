@@ -1,5 +1,5 @@
 <snippet>
-    <content><!CDATA[Y.Assert.areSame($1, $2);]]></content>
+    <content><![CDATA[Y.Assert.areSame($1, $2);]]></content>
     <tabTrigger>asa</tabTrigger>
     <scope>source.js</scope>
     <description>Y.Assert.areSame(expected, actual)</description>
