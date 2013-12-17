@@ -28,3 +28,12 @@
         <td>Y.Assert.isFalse</td>
     </tr>
 </table>
+
+##Object Assertions
+
+<table>
+    <tr>
+        <td>oaok</td>
+        <td>Y.ObjectAssert.ownsKey</td>
+    </tr>
+</table>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.ObjectAssert.ownsKey('$1', $2);]]></content>
+    <tabTrigger>oaok</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.ObjectAssert.ownsKey</description>
+</snippet>
