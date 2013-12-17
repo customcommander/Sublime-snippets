@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.isNotUndefined($1);]]></content>
+    <tabTrigger>anund</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.isNotUndefined</description>
+</snippet>

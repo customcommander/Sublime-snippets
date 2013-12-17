@@ -27,6 +27,10 @@
         <td>afa</td>
         <td>Y.Assert.isFalse</td>
     </tr>
+    <tr>
+        <td>anund</td>
+        <td>Y.Assert.isNotUndefined</td>
+    </tr>
 </table>
 
 ##Object Assertions
