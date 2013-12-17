@@ -48,4 +48,8 @@
         <td>oaok</td>
         <td>Y.ObjectAssert.ownsKey</td>
     </tr>
+    <tr>
+        <td>oaoks</td>
+        <td>Y.ObjectAssert.ownsKeys</td>
+    </tr>
 </table>
