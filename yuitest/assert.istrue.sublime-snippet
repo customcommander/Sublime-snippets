@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.isTrue($1);]]></content>
+    <tabTrigger>atr</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.isTrue</description>
+</snippet>

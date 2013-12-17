@@ -28,6 +28,10 @@
         <td>Y.Assert.isFalse</td>
     </tr>
     <tr>
+        <td>atr</td>
+        <td>Y.Assert.isTrue</td>
+    </tr>
+    <tr>
         <td>anund</td>
         <td>Y.Assert.isNotUndefined</td>
     </tr>
