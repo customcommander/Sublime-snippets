@@ -53,3 +53,12 @@
         <td>Y.ObjectAssert.ownsKeys</td>
     </tr>
 </table>
+
+##Array Assertions
+
+<table>
+    <tr>
+        <td>aauq</td>
+        <td>Y.ArrayAssert.isUnique</td>
+    </tr>
+</table>
