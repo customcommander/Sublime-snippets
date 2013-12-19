@@ -1,6 +1,6 @@
 #Sublime Snippets for YUI assertions
 
-##Reference
+##General Assertions
 
 <table>
     <tr>
