@@ -32,6 +32,10 @@
         <td>Y.Assert.isTrue</td>
     </tr>
     <tr>
+        <td>annu</td>
+        <td>Y.Assert.isNotNull</td>
+    </tr>
+    <tr>
         <td>aund</td>
         <td>Y.Assert.isUndefined</td>
     </tr>

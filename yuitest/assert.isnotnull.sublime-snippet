@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.isNotNull($1);]]></content>
+    <tabTrigger>annu</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.isNotNull</description>
+</snippet>
