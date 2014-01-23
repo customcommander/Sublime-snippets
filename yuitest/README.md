@@ -65,4 +65,8 @@
         <td>aauq</td>
         <td>Y.ArrayAssert.isUnique</td>
     </tr>
+    <tr>
+        <td>aaem</td>
+        <td>Y.ArrayAssert.isEmpty</td>
+    </tr>
 </table>

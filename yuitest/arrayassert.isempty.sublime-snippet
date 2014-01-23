@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.ArrayAssert.isEmpty($1);]]></content>
+    <tabTrigger>aaem</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.ArrayAssert.isEmpty</description>
+</snippet>
