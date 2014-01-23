@@ -69,4 +69,8 @@
         <td>aaem</td>
         <td>Y.ArrayAssert.isEmpty</td>
     </tr>
+    <tr>
+        <td>aac</td>
+        <td>Y.ArrayAssert.contains</td>
+    </tr>
 </table>

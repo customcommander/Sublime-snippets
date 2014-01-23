@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.ArrayAssert.contains($1, $2);]]></content>
+    <tabTrigger>aac</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.ArrayAssert.contains</description>
+</snippet>
