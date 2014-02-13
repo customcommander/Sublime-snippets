@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Y.Assert.isObject($1);]]></content>
+    <tabTrigger>aobj</tabTrigger>
+    <scope>source.js</scope>
+    <description>Y.Assert.isObject</description>
+</snippet>
